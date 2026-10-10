@@ -45,7 +45,7 @@ ai-log-analyzer/
 ## Installation
 
 ```bash
-git clone <votre-repo> ai-log-analyzer
+git clone repo ai-log-analyzer
 cd ai-log-analyzer
 
 python3 -m venv venv
