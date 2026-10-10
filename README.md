@@ -2,8 +2,6 @@
 
 Outil en ligne de commande qui lit un fichier de logs de sécurité, pré-filtre les événements suspects (regex), interroge un LLM avec un prompt système strict, valide la sortie JSON, et produit une analyse structurée destinée à la **validation d'un analyste humain**.
 
-> Projet pédagogique issu du parcours *AI for SOC Analyst — 90 jours* (Phase 2 : Python, APIs et LLM — Jours 16 à 30).
-
 ## Principe directeur
 
 ```
