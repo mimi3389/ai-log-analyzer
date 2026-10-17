@@ -116,4 +116,5 @@ Chaque exécution écrit dans `ai_log_analyzer.log` (créé automatiquement, exc
 
 ## Licence
 
-Projet pédagogique — libre d'utilisation et d'adaptation dans le cadre de votre propre apprentissage ou laboratoire.
+Libre d'utilisation et d'adaptation dans le cadre de votre propre apprentissage ou laboratoire.
+Justin Marius
